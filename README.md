@@ -1,2 +1,1 @@
-# psychoray-
-profile
+![Metrics](github-metrics.svg)
